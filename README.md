@@ -1,9 +1,9 @@
 Marxlang
 ========
 Marxlang is a an esoteric language that is impossible for a human
-being to program by hand with it. \\
+being to program with it. \\
 
-The name come from the fact that the dictionnary is the *Communist
+The name comes from the fact that the dictionnary is the *Communist
 Manifesto* by Marx and Engels, although this text is perfectly
 replaceable by any book.
 
